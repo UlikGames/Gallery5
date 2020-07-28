@@ -13,6 +13,7 @@ body {
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   text-align: center;
   color: #fff;
+  overflow-x: hidden;
 }
 
 /*i {
