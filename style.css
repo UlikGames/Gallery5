@@ -33,7 +33,6 @@ body {
   }
 }
 
-
 /*i {
   color: #2127e0;
 }*/
@@ -85,7 +84,6 @@ img {
   left: 50%;
   -webkit-box-shadow: 9px 0px 19px 0px rgba(105, 109, 122, 1);
   box-shadow: 9px 0px 19px 0px rgba(105, 109, 122, 1);
-  border-left: 0.5px solid rgba(255, 255, 255, 0.8);
 }
 
 .ovrl-right {
@@ -93,6 +91,7 @@ img {
   right: 50%;
   -webkit-box-shadow: -9px 0px 19px 0px rgba(105, 109, 122, 1);
   box-shadow: -9px 0px 19px 0px rgba(105, 109, 122, 1);
+  border-right: 0.5px solid rgba(255, 255, 255, 0.8);
 }
 
 .locker {
